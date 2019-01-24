@@ -3,4 +3,6 @@ The engine currently is having issued with implementationa and its database so i
 
 Gameplay has not been affected apart from audio.
 
+The main scenario is located inside of "Sword Game Testing\_Scenes".
+
 J.R.
