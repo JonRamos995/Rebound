@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	23887081	Play_Wind_Amb_01			\Default Work Unit\Play_Wind_Amb_01	
+	23887082	Play_Wind_Amb_02			\Default Work Unit\Play_Wind_Amb_02	
+	225588470	Sword_Launch_SFX			\Default Work Unit\Sword_Launch_SFX	
+	452166052	Fireball_Launch			\Default Work Unit\Fireball_Launch	
+	476098351	Sword_Swing			\Default Work Unit\Sword_Swing	
+	1221070540	Play_Sword_Spin			\Default Work Unit\Play_Sword_Spin	
+	1329165652	Sword_Orb_Hit			\Default Work Unit\Sword_Orb_Hit	
+	2066891158	Stop_Sword_Spin			\Default Work Unit\Stop_Sword_Spin	
+	2667994717	Play_Synth_Amb_01			\Default Work Unit\Play_Synth_Amb_01	
+	2667994718	Play_Synth_Amb_02			\Default Work Unit\Play_Synth_Amb_02	
+	2667994719	Play_Synth_Amb_03			\Default Work Unit\Play_Synth_Amb_03	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1673869738	Sword_Velocity			\Default Work Unit\Sword_Velocity	
+	4107715407	Sword_Spin_Velocity			\Default Work Unit\Sword_Spin_Velocity	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	39412784	Modulator LFO (Custom)				
+	245998424	Sword_Pitch_Fluctuation			\Default Work Unit\Sword_Pitch_Fluctuation	
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	254826353	Modulator Envelope (Custom)				
+	513183863	Modulator Envelope (Custom)				
+	518976566	Modulator Envelope (Custom)				
+	812613134	Sword_Slash_Env (Custom)				
+	900256067	Modulator Envelope (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	568197450	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	1044479214	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	215936884	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Spin\Synth_Spin_High\Wwise Synth One	
+	296101314	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Movements\Sword_Swing_Synth_Low\Wwise Synth One	
+	611912143	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Orb_Synth_Sting\Wwise Synth One	
+	734498124	SoundSeed Woosh	SoundSeed Air/SoundSeed Woosh		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Movements\Sword_Swing_SoundSeed\SoundSeed Woosh	
+	755976275	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Spin\Synth_Spin_Low\Wwise Synth One	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	14368261	Fireball_Launch_01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Rebound Fireballs\Fireball_Launch_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Projectile\Fireballs\Fireball_Launch_01		164614
+	68727640	Sword_Spin_Scrape-Norm_05-01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Spin_Scrape-Norm_05-01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Spin\Sword_Spin_Scrape\Sword_Spin_Scrape-Norm_05-01		50624
+	93339136	Sword_Launch_03	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Rebound Sword Launches\Sword_Launch_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Projectile\Sword Launches\Sword_Launch_03		51668
+	137170800	Sword_Impact_02	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Impact_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Sword_Impact\Sword_Impact_02		48834
+	188182024	Sword_Impact_01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Impact_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Sword_Impact\Sword_Impact_01		55056
+	191159598	Fireball_Launch_02	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Rebound Fireballs\Fireball_Launch_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Projectile\Fireballs\Fireball_Launch_02		143844
+	207892121	sword swish 09_L	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\sword swish 09.L_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Placeholder\sword swish 09_L		17590
+	209954705	Fireball_Launch_03	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Rebound Fireballs\Fireball_Launch_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Projectile\Fireballs\Fireball_Launch_03		157386
+	259222004	Sword_Launch_02	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Rebound Sword Launches\Sword_Launch_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Projectile\Sword Launches\Sword_Launch_02		49474
+	264079580	Sword_Spin_Scrape-Norm_06-01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Spin_Scrape-Norm_06-01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Spin\Sword_Spin_Scrape\Sword_Spin_Scrape-Norm_06-01		50896
+	401912059	Sword_Spin_Scrape-Norm_04-01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Spin_Scrape-Norm_04-01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Spin\Sword_Spin_Scrape\Sword_Spin_Scrape-Norm_04-01		58304
+	552930662	Sword_Impact_05	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Impact_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Sword_Impact\Sword_Impact_05		55422
+	603811045	BG Print-Norm_01-01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\BG Print-Norm_01-01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambiences\BG Print-Norm_01-01		7393856
+	628989138	Sword_Impact_03	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Impact_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Sword_Impact\Sword_Impact_03		52598
+	743987743	Sword_Impact_04	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Impact_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Sword_Impact\Sword_Impact_04		75400
+	768989884	Synth Amb_CONS_02_R	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Synth Amb.CONS_02.R_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Synth Ambiences\Synth Amb_CONS_02_R		2487360
+	791797418	Sword_Impact_06	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Sword_Impact_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Orb_Impact\Sword_Impact\Sword_Impact_06		64616
+	836394487	Synth Amb_CONS_01_R	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Synth Amb.CONS_01.R_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Synth Ambiences\Synth Amb_CONS_01_R		2551872
+	837719439	Sword_Launch_01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Rebound Sword Launches\Sword_Launch_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword Audio\Sword_Projectile\Sword Launches\Sword_Launch_01		52568
+	928829333	Synth Amb_CONS_03_R	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\Synth Amb.CONS_03.R_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Synth Ambiences\Synth Amb_CONS_03_R		2587712
+	963309969	BG2-Norm_01	D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Windows\SFX\BG2-Norm_01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambiences\BG2-Norm_01		7504960
+

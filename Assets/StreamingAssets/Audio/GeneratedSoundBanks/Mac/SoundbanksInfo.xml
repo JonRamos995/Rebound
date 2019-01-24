@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>D:\Rebound_Wwise\EN_VRLab_Rebound\</ProjectRoot>
+		<SourceFilesRoot>D:\Rebound_Wwise\EN_VRLab_Rebound\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Rebound\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Rebound_Wwise\EN_VRLab_Rebound\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="452166052" Name="Fireball_Launch" ObjectPath="\Events\Default Work Unit\Fireball_Launch"/>
+				<Event Id="1221070540" Name="Play_Sword_Spin" ObjectPath="\Events\Default Work Unit\Play_Sword_Spin"/>
+				<Event Id="2667994717" Name="Play_Synth_Amb_01" ObjectPath="\Events\Default Work Unit\Play_Synth_Amb_01"/>
+				<Event Id="2667994718" Name="Play_Synth_Amb_02" ObjectPath="\Events\Default Work Unit\Play_Synth_Amb_02"/>
+				<Event Id="2667994719" Name="Play_Synth_Amb_03" ObjectPath="\Events\Default Work Unit\Play_Synth_Amb_03"/>
+				<Event Id="23887081" Name="Play_Wind_Amb_01" ObjectPath="\Events\Default Work Unit\Play_Wind_Amb_01"/>
+				<Event Id="23887082" Name="Play_Wind_Amb_02" ObjectPath="\Events\Default Work Unit\Play_Wind_Amb_02"/>
+				<Event Id="2066891158" Name="Stop_Sword_Spin" ObjectPath="\Events\Default Work Unit\Stop_Sword_Spin"/>
+				<Event Id="225588470" Name="Sword_Launch_SFX" ObjectPath="\Events\Default Work Unit\Sword_Launch_SFX"/>
+				<Event Id="1329165652" Name="Sword_Orb_Hit" ObjectPath="\Events\Default Work Unit\Sword_Orb_Hit"/>
+				<Event Id="476098351" Name="Sword_Swing" ObjectPath="\Events\Default Work Unit\Sword_Swing"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14368261" Language="SFX">
+					<ShortName>Rebound Fireballs\Fireball_Launch_01.wav</ShortName>
+					<Path>SFX\Rebound Fireballs\Fireball_Launch_01_9E69E797.wem</Path>
+				</File>
+				<File Id="68727640" Language="SFX">
+					<ShortName>Sword_Spin_Scrape-Norm_05-01.wav</ShortName>
+					<Path>SFX\Sword_Spin_Scrape-Norm_05-01_9E69E797.wem</Path>
+				</File>
+				<File Id="93339136" Language="SFX">
+					<ShortName>Rebound Sword Launches\Sword_Launch_03.wav</ShortName>
+					<Path>SFX\Rebound Sword Launches\Sword_Launch_03_9E69E797.wem</Path>
+				</File>
+				<File Id="137170800" Language="SFX">
+					<ShortName>Sword_Impact_02.wav</ShortName>
+					<Path>SFX\Sword_Impact_02_9E69E797.wem</Path>
+				</File>
+				<File Id="188182024" Language="SFX">
+					<ShortName>Sword_Impact_01.wav</ShortName>
+					<Path>SFX\Sword_Impact_01_9E69E797.wem</Path>
+				</File>
+				<File Id="191159598" Language="SFX">
+					<ShortName>Rebound Fireballs\Fireball_Launch_02.wav</ShortName>
+					<Path>SFX\Rebound Fireballs\Fireball_Launch_02_9E69E797.wem</Path>
+				</File>
+				<File Id="207892121" Language="SFX">
+					<ShortName>sword swish 09.L.wav</ShortName>
+					<Path>SFX\sword swish 09.L_9E69E797.wem</Path>
+				</File>
+				<File Id="209954705" Language="SFX">
+					<ShortName>Rebound Fireballs\Fireball_Launch_03.wav</ShortName>
+					<Path>SFX\Rebound Fireballs\Fireball_Launch_03_9E69E797.wem</Path>
+				</File>
+				<File Id="259222004" Language="SFX">
+					<ShortName>Rebound Sword Launches\Sword_Launch_02.wav</ShortName>
+					<Path>SFX\Rebound Sword Launches\Sword_Launch_02_9E69E797.wem</Path>
+				</File>
+				<File Id="264079580" Language="SFX">
+					<ShortName>Sword_Spin_Scrape-Norm_06-01.wav</ShortName>
+					<Path>SFX\Sword_Spin_Scrape-Norm_06-01_9E69E797.wem</Path>
+				</File>
+				<File Id="401912059" Language="SFX">
+					<ShortName>Sword_Spin_Scrape-Norm_04-01.wav</ShortName>
+					<Path>SFX\Sword_Spin_Scrape-Norm_04-01_9E69E797.wem</Path>
+				</File>
+				<File Id="552930662" Language="SFX">
+					<ShortName>Sword_Impact_05.wav</ShortName>
+					<Path>SFX\Sword_Impact_05_9E69E797.wem</Path>
+				</File>
+				<File Id="603811045" Language="SFX">
+					<ShortName>BG Print-Norm_01-01.wav</ShortName>
+					<Path>SFX\BG Print-Norm_01-01_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="628989138" Language="SFX">
+					<ShortName>Sword_Impact_03.wav</ShortName>
+					<Path>SFX\Sword_Impact_03_9E69E797.wem</Path>
+				</File>
+				<File Id="743987743" Language="SFX">
+					<ShortName>Sword_Impact_04.wav</ShortName>
+					<Path>SFX\Sword_Impact_04_9E69E797.wem</Path>
+				</File>
+				<File Id="768989884" Language="SFX">
+					<ShortName>Synth Amb.CONS_02.R.wav</ShortName>
+					<Path>SFX\Synth Amb.CONS_02.R_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="791797418" Language="SFX">
+					<ShortName>Sword_Impact_06.wav</ShortName>
+					<Path>SFX\Sword_Impact_06_9E69E797.wem</Path>
+				</File>
+				<File Id="836394487" Language="SFX">
+					<ShortName>Synth Amb.CONS_01.R.wav</ShortName>
+					<Path>SFX\Synth Amb.CONS_01.R_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="837719439" Language="SFX">
+					<ShortName>Rebound Sword Launches\Sword_Launch_01.wav</ShortName>
+					<Path>SFX\Rebound Sword Launches\Sword_Launch_01_9E69E797.wem</Path>
+				</File>
+				<File Id="928829333" Language="SFX">
+					<ShortName>Synth Amb.CONS_03.R.wav</ShortName>
+					<Path>SFX\Synth Amb.CONS_03.R_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="963309969" Language="SFX">
+					<ShortName>BG2-Norm_01.wav</ShortName>
+					<Path>SFX\BG2-Norm_01_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

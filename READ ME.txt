@@ -1,0 +1,6 @@
+Most of the audio used in this game is used with the Wwise engine. 
+The engine currently is having issued with implementationa and its database so it has been deactivated from this current implementation.
+
+Gameplay has not been affected apart from audio.
+
+J.R.
